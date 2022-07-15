@@ -10,9 +10,9 @@ let anu = `Hallo mypren 👋
 ━━━━━━━━━━━━━━━━━━━━
 ━━━〔 ıll *HARGA* llı 〕━━㉿
 ⬡ *1 BULAN* 5.000
-⬡ *PERMANEN 2 grup:* 10.000
-⬡ *PERMANEN 3-6 grup:* 20.000
-⟩» lebih dari 6 tambah +5.000
+⬡ *1 TAHUN 2 grup:* 10.000
+⬡ *1 TAHUN 4 grup:* 20.000
+⟩» lebih dari 4 tambah +5.000
 📮 *batas scan 5 kali !*
 ┗━━━━━━━━━━━━━━━━━━㉿
 ┏━━━〔 ıll *PAYMENT* llı 〕━━㉿
