@@ -5,40 +5,40 @@
 // RECODE BY KOKO PANGERAN
 
 //=============『 Utama 』================== //
-global.owner = ['+6283844508188'] 
-global.mods = ['+6283844508188'] 
-global.prems = ['+6283844508188'] 
+global.owner = ['+6281646829895'] 
+global.mods = ['+6289531704997'] 
+global.prems = ['+6285624823115'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Sopiput×፝֟͜×'
-global.numberowner = '+6283844508188'
+global.nameowner = 'Irfaan Official×፝֟͜×'
+global.numberowner = '+6281646829895'
 global.instagram = 'https://instagram.com/kokopangeran_'
 global.github = 'https://github.com/MendingTuru'
-global.dana = '087832147584'
-global.pulsa = '087832147584'
-global.gopay = '087832147584'
+global.dana = '089531704997'
+global.pulsa = '085624823115'
+global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Meii-MD×፝֟͜×'
+global.namebot = 'Alfara-MD×፝֟͜×'
 global.gc = 'https://chat.whatsapp.com/BelumBuatGroupBot'
-global.web = 'https://instagram.com/kokopangeran_' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://youtube.com/channel/UCaFh82MyrVgcgIvJxvTA39w' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/kokopangeran_'
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》1 TAHUN Rp 10.000\nMAKSIMAL 2 GRUP\n》1 TAHUN  Rp 20.000\nMAKSIMAL 4 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/e7019215bb7554614cc2c.jpg'
-global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto apa aja 
+global.fotonya1 = 'https://telegra.ph/file/330751db7016c724958b6.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/330751db7016c724958b6.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/330751db7016c724958b6.jpg'
+global.donasi = 'https://telegra.ph/file/ba3782f1fc0d07ef32e3e.jpg' //ganti pakai poto apa aja 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '©Meii-MD×፝֟͜×'
+global.wm = '©Alfara-MD×፝֟͜×'
 global.watermark = wm
-global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜSopiput×፝֟͜×'
-global.wm3 = 'ᯤ Meii-MD×፝֟͜×'
+global.wm2 = 'ᯤ Creator By Oᵂηʀ᭄๖ۣۣۜIrfaan Official×፝֟͜×'
+global.wm3 = 'ᯤ Alfara-MD×፝֟͜×'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/330751db7016c724958b6.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
