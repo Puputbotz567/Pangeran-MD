@@ -45,8 +45,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = '©Meii-MD×፝֟͜×'
-global.author = '@Sopiput×፝֟͜×'
+global.packname = '©Alfara-MD×፝֟͜×'
+global.author = '@Irfaan Official×፝֟͜×'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
